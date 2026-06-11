@@ -1,20 +1,20 @@
-# portfolio-ux
+# portfolio-apps
 
-Subdomain:    ux.hamednouri.com
-Template:     Typefolio
-Template URL: https://themewagon.github.io/Typefolio/
-Public email: ux@hamednouri.com
-Resume:       None — CTA only (request via ux@hamednouri.com)
+Subdomain:    apps.hamednouri.com
+Template:     Olivia
+Template URL: https://themewagon.github.io/olivia/
+Public email: apps@hamednouri.com
+Resume:       None — CTA only (request via apps@hamednouri.com)
 
 ## Purpose
-UX/product design, user flows, app design, product thinking, information architecture.
+App projects, interactive products, learning tools, prototypes.
 
 ## Build
 Open index.html in browser. No build step required.
 
 ## Deploy
 Not deployed. Awaiting Hamed's approval.
-GitHub Pages: https://nourijp.github.io/portfolio-ux/
+GitHub Pages: https://nourijp.github.io/portfolio-apps/
 
 ## Asset TODOs
 See TODO.md

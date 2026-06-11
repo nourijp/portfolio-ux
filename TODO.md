@@ -1,8 +1,8 @@
-# TODO — ux.hamednouri.com
+# TODO — apps.hamednouri.com
 
 ## Assets Needed
-- [ ] Wireframes or flow diagrams
 - [ ] App screenshots
-- [ ] Figma files (if available)
-- [ ] Before/after structure examples
+- [ ] Prototype links or demo videos
+- [ ] App icons
+- [ ] Product flow diagrams
 - [ ] Headshot photo
